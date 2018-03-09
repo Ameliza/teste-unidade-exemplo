@@ -1,4 +1,4 @@
-TODO - Adicionar um emblema
+[![Build Status](https://travis-ci.org/Ameliza/teste-unidade-exemplo.svg?branch=master)](https://travis-ci.org/Ameliza/teste-unidade-exemplo)
 
 Ameliza Souza Corrêa
 
